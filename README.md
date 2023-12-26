@@ -1,6 +1,6 @@
 # Shift Handover
 
-App to manage a company's employee shifts
+App for managing a company's employee shifts and managing pending tasks to be done.
 
 ## Login Screen
 
